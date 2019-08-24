@@ -49,7 +49,7 @@ export function img (htmlAttribs, children, convertedCSSStyles, passProps = {}) 
           source={{ uri: src }}
           alt={alt}
           width={'100%'}
-          height={300}
+          height={210}
           style={style}
           {...passProps}
         />
